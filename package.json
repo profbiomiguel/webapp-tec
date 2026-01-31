@@ -1,0 +1,25 @@
+{
+  "name": "webapp-tec",
+  "version": "1.0.0",
+  "description": "App Web criado para ajudar o uso de tecnologias em sala de aula na rotina diária do ambiente escolar.",
+  "homepage": "https://github.com/profbiomiguel/webapp-tec#readme",
+  "bugs": {
+    "url": "https://github.com/profbiomiguel/webapp-tec/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profbiomiguel/webapp-tec.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
